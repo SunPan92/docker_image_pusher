@@ -4,6 +4,5 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-gitlab/gitlab-ee:16.6.2-ee.0
 gitlab/gitlab-ee:17.1.8-ee.0
 gitlab/gitlab-ee:17.6.2-ee.0
