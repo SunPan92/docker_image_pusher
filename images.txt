@@ -1,6 +1,5 @@
 nginx
 --platform=linux/arm64 nginx:1.29.3
---platform=linux/arm64/v8 nginx:1.29.3
 nginx:1.29.3
 --platform=linux/arm64/v8 arm64v8/nginx:stable
 #支持私库
@@ -10,3 +9,5 @@ nginx:1.29.3
 #--platform=linux/arm64 xiaoyaliu/alist
 gitlab/gitlab-ee:17.1.8-ee.0
 gitlab/gitlab-ee:17.6.2-ee.0
+# onlyoffice
+--platform=linux/arm64 onlyoffice/documentserver:9.1.0
