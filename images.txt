@@ -9,6 +9,7 @@ nginx:1.29.3
 #--platform=linux/arm64 xiaoyaliu/alist
 gitlab/gitlab-ee:17.6.2-ee.0
 # onlyoffice
+onlyoffice/documentserver:7.5.1
 onlyoffice/documentserver:8.2.3
 onlyoffice/documentserver:9.1.0
 --platform=linux/arm64 onlyoffice/documentserver:9.1.0
